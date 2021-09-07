@@ -7,10 +7,10 @@ class Translation(object):
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+🔥Only Work With 🇱🇰𝐌𝐨𝐯𝐢𝐞𝐇𝐮𝐛 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥™🎬
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@MovieClubOfficialSL
 </i>"""    
     
     HELP_TEXT = """
