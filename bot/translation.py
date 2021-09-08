@@ -5,13 +5,19 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<b>I'm MHO Auto filter Bot...🖤
 
-🔥Only Work With 🇱🇰𝐌𝐨𝐯𝐢𝐞𝐇𝐮𝐛 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥™🎬🔥
+I can help you to filter files automatically from channel to group .
 
-For More Details Click Help Button Below..
-@MovieClubOfficialSL
-</i>"""    
+➡️ Just add me to your group and channel as admin .
+
+For more details hit /help ....
+
+Powered by @MovieClubFamily
+
+
+
+</b>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
@@ -48,7 +54,7 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/KP_Tech_Hub_Admin">Kisara Pesanjith Perera</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
