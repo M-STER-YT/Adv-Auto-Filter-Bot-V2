@@ -13,7 +13,7 @@ I can help you to filter files automatically from channel to group .
 
 For more details hit /help ....
 
-Powered by @MovieClubFamily
+🔰Powered by @MovieClubOfficialSL
 
 
 
